@@ -41,7 +41,7 @@ The surrounding farm has the following:
 * Wood shed.
 * Grazing Pasture.
 * Grain Field.
-* [[Notes/Characters/Lorros Bowman\|Lorros Bowman]]'s house.'
+* [[Notes/Characters/Lorros Bowman\|Lorros Bowman]]'s house.
 * Well.
 
 As the goats rest is primarily an Inn, the herds are not large.
