@@ -17,9 +17,6 @@ He makes his own cider in the harvest season, from local apples from nearby farm
 * Stocky, shortish build.
 * Brown Hair. Ginger Beard. 
 * Wears a striped wool hat. 
-
-
-
 ### Demeanour
 * Immensely wholesome. 
 * Helpful.
@@ -42,4 +39,4 @@ He wants to support Tove.
 ### Enemies
 ### Factions
 
-
+ 
