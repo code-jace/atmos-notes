@@ -14,4 +14,4 @@ Liftwood is normally sustainably farmed by the countries, as it is used in makin
 ## Properties
 
 ### Physical & Chemical Properties
-The wood has lighter than air properties, and can support additional weight. This can be boosted with energy crystals and energy crystal dust.
+The wood has lighter than air properties, and can support additional weight. This can be boosted with [[Notes/Energy Crystal\|Energy Crystal]]s and energy crystal dust.
