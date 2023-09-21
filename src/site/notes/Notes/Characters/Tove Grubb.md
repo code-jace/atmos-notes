@@ -16,4 +16,23 @@ While she normally works behind the bar, sorting the inn book and serving custom
 * Light blonde hair medium length
 * Wears a head scarf when she is working.
 
- 
+### Demeanour
+* Kind
+* Laughs a lot
+* Keen listener, gossiper to close friends
+
+
+### Occupation
+Owner and bar-woman at [[Notes/Locations/The Goat's Rest\|The Goat's Rest]].
+
+## Motivations
+Tove has a kind nature and enjoys the life of running the inn especially on days when it is profitable. She wants to build a comfortable life for herself and Wendel. She also enjoys the center of local community that the inn has become. She runs a harvest festival every year during the harvest season. 
+She wants to help her local community and friends. 
+She wants to support Wendel.
+## Relations
+### Family
+[[Notes/Characters/Wendel Grubb\|Wendel Grubb]] - Husband
+### Allies
+[[Notes/Characters/Lorros Bowman\|Lorros Bowman]] - Friend and Farmhand
+### Enemies
+### Factions
