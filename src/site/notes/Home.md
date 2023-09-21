@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-Hello World !
+# The World of Terra Atmos
+## Skyland Nations
+[[Notes/Locations/Brist\|Brist]] 
