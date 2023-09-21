@@ -14,7 +14,9 @@ The capital city of [[Notes/Locations/Brist\|Brist]].
 [[Notes/Locations/Gladeway\|Gladeway]]
 
 
- 
+
+### Plot Hooks
+
 
 ### Other things
 [[Notes/Kronerfort Illustrated\|Kronerfort Illustrated]] Newspaper published from office and printworks in the city.
