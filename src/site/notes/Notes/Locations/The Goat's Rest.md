@@ -5,7 +5,7 @@
 #location #tavern
 **Signage:** A brown and grey billy-goat curled up on a yellow background.  "The Goat's Rest" underneath in clear script.
 
-The Goat's Rest Inn is a Way-house Inn in [[Notes/Locations/Brist\|Brist]], run by [[Notes/NPCs/Tove Grubb\|Tove Grubb]] and [[Notes/NPCs/Wendel Grubb\|Wendel Grubb]], located on the main road, halfway between the towns of [[Notes/Locations/Hamel\|Hamel]] and [[Notes/Locations/Mirn\|Mirn]].
+The Goat's Rest Inn is a Way-house Inn in [[Notes/Locations/Brist\|Brist]], run by [[Notes/Characters/Tove Grubb\|Tove Grubb]] and [[Notes/Characters/Wendel Grubb\|Wendel Grubb]], located on the main road, halfway between the towns of [[Notes/Locations/Hamel\|Hamel]] and [[Notes/Locations/Mirn\|Mirn]].
 It serves as a local pub to the surrounding farms and folk, and also caters to people travelling on the main road.
 
 The Goat's Rest inn is an old farm that has been added to, to build dedicated hostel-style lodging rooms for travelers, after years of putting folk up in the barn, with a friendly-but-temperamental goat (hence the name). It is still a working farm, although that is now second to operating as an inn.
@@ -41,7 +41,7 @@ The surrounding farm has the following:
 * Wood shed.
 * Grazing Pasture.
 * Grain Field.
-* [[Notes/NPCs/Lorros Bowman\|Lorros Bowman]]'s house.'
+* [[Notes/Characters/Lorros Bowman\|Lorros Bowman]]'s house.'
 * Well.
 
 As the goats rest is primarily an Inn, the herds are not large.
@@ -77,13 +77,13 @@ There is no set lunchtime menu but Cheeses and cuts of meats are normally availa
 #### Drinks
 - Imported/Bought wine of okay quality. (Normally just red)
 - Bought spirits of good quality, a bottle of something fancy and expensive stashed away.
-- Local mead made by neighbour [[Waldo Bingus\|Waldo Bingus]].
+- Local mead made by neighbour [[Notes/Characters/Waldo Bingus\|Waldo Bingus]].
 - Local firewater made by Bingus. It is rough and strong.
-- [[Royale Ale\|Royale Ale]] from [[Notes/Locations/Kronerfort\|Kronerfort]], a standard drink.
+- [[Notes/Royale Ale\|Royale Ale]] from [[Notes/Locations/Kronerfort\|Kronerfort]], a standard drink.
 - [[Notes/Berrysong Brew\|Berrysong Brew]].
 - Local Ale from nearby farms, in rotation (everyone has some on the go).
 
 ## Folk
-[[Notes/NPCs/Lorros Bowman\|Lorros Bowman]]
+[[Notes/Characters/Lorros Bowman\|Lorros Bowman]]
 
 ### Sythe and Cider Harvest festival
