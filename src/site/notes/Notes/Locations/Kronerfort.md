@@ -7,6 +7,7 @@ The capital city of [[Notes/Locations/Brist\|Brist]].
 ### Notable Locations 
 [[Notes/Locations/Kronerfort Air Harbour\|Kronerfort Air Harbour]]
 [[Notes/Locations/Lake Thesi\|Lake Thesi]]
+[[Kronerfort Palace\|Kronerfort Palace]]
 
 *Nearby*
 [[Notes/Locations/Mireden\|Mireden]]
