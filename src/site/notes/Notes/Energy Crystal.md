@@ -8,7 +8,7 @@
 **Common State** Ore, Crystal, Gem
 
 A major type of [[Notes/Magical Crystal\|Magical Crystal]]. While not containing an energy of a particular elemental magic type, energy crystals contain an amount of raw arcane energy. Energy crystals can be used to increase the magical power, efficiency,  or output of other crystals. They are regularly used to power some magical devices, especially those which rely on the reaction of crystals. 
-An example of their use might be in a gem-lifted type flying craft. The craft might be lifted and made buoyant by a large [[Notes/Air Crystal\|Air Crystal]] Gem in its [[Notes/Levitation Engine\|Levitation Engine]], but to magically move the craft and gain lift, the Air Gem must be fuelled energy from Energy Crystals.
+An example of their use might be in a gem-lifted type flying craft. The craft might be lifted and made buoyant by a large [[Notes/Air Crystal\|Air Crystal]] Gem in its [[Notes/Items/Levitation Engine\|Levitation Engine]], but to magically move the craft and gain lift, the Air Gem must be fuelled energy from Energy Crystals.
 
 
 ## Properties
