@@ -10,9 +10,7 @@ King of [[Notes/Locations/Brist\|Brist]]. Head of the [[Notes/Alban Royal Family
 ### Physical
 **Ancestry** Human
 
-
 ### Demeanour
-
 
 ## Motivations
 
@@ -28,6 +26,4 @@ King of [[Notes/Locations/Brist\|Brist]]. Head of the [[Notes/Alban Royal Family
 - [[Notes/Alban Royal Family\|Alban Royal Family]] (Head) #faction-alban
 
 
-
-
-
+ 
