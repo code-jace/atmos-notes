@@ -10,9 +10,6 @@ Waldo keeps his own time. It's "bingus time" -  a nature time of sorts. He hiber
 - Tall and Lanky, for a halfling. 
 - Can fit into tiny places due to his agility.
 - Very pale skin. Almost translucently marble white.
-
-
-
 ### Demeanour
 
 ### Occupation
@@ -27,3 +24,4 @@ Meadmaker
 ### Enemies
 ### Factions
 
+ 
