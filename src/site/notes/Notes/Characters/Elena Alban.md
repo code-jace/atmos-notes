@@ -26,3 +26,4 @@
 ### Factions
 - [[Notes/Alban Royal Family\|Alban Royal Family]] #faction-alban
 
+ 
