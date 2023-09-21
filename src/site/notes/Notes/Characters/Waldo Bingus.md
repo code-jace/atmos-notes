@@ -11,4 +11,19 @@ Waldo keeps his own time. It's "bingus time" -  a nature time of sorts. He hiber
 - Can fit into tiny places due to his agility.
 - Very pale skin. Almost translucently marble white.
 
- 
+
+
+### Demeanour
+
+### Occupation
+Meadmaker
+
+## Motivations
+
+
+## Relations
+### Family
+### Allies
+### Enemies
+### Factions
+
