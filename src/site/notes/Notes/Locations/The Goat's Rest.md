@@ -69,7 +69,7 @@ There is no set lunchtime menu but Cheeses and cuts of meats are normally availa
 - Meats.
 - Stew with dumplings cooked throughout the day, dumplings added when serving.
 
-##### On asking, and additional cost:
+**On asking, and additional cost:**
 - Fry-up: Bacon, Sausage, Eggs, Fried bread or toast, tomato if in season, foraged mushrooms if available.
 - Omelette (Wendel's speciality)
 - Toasted Ham and Cheese sandwich.
