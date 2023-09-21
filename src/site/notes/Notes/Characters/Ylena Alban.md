@@ -4,6 +4,7 @@
 
 #npc #royalty #political
 
+The only daughter of Thastus Alban, and the youngest in the family.
 ## Description
 ### Physical
 **Ancestry** Human
