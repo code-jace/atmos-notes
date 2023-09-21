@@ -14,6 +14,7 @@ It is an interesting and eventful time to be alive.
 ## Skyland Nations
 [[Notes/Locations/Brist\|Brist]] 
 
+[[A History of the Skies\|A History of the Skies]]
 ## Game Details (Meta)
 [[Things you should know\|Things you should know]]
 [[House Rules\|House Rules]]
