@@ -21,7 +21,6 @@ While she normally works behind the bar, sorting the inn book and serving custom
 * Laughs a lot
 * Keen listener, gossiper to close friends
 
-
 ### Occupation
 Owner and bar-woman at [[Notes/Locations/The Goat's Rest\|The Goat's Rest]].
 
@@ -36,3 +35,9 @@ She wants to support Wendel.
 [[Notes/Characters/Lorros Bowman\|Lorros Bowman]] - Friend and Farmhand
 ### Enemies
 ### Factions
+
+:::dm
+# Secrets
+## Motivations
+
+:::
