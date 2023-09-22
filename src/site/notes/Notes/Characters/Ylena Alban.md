@@ -2,14 +2,11 @@
 {"dg-publish":true,"permalink":"/notes/characters/ylena-alban/"}
 ---
 
-#npc #royalty #political
-
-The only daughter of Thastus Alban, and the youngest in the family.
+#royalty #political
+#npc 
 ## Description
 ### Physical
 **Ancestry** Human
-
-
 ### Demeanour
 
 
@@ -25,5 +22,3 @@ The only daughter of Thastus Alban, and the youngest in the family.
 ### Allies
 ### Enemies
 ### Factions
-
- 
