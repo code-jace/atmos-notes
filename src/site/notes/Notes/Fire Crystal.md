@@ -9,7 +9,7 @@
 
 A major type of [[Notes/Magical Crystal\|Magical Crystal]]. 
 
-Connected with power. Fire crystals can be used to start and influence small flames. A gem or crystal can also be used as a heat source. They are used in [[Notes/Items/Shooter Rod\|Shooter Rod]]s to cast firebolts. 
+Connected with power. Fire crystals can be used to start and influence small flames. A gem or crystal can also be used as a heat source. They are used in [[Notes/Shooter Rod\|Shooter Rod]]s to cast firebolts. 
 
 The ore is more volatile by comparison to other crystal ore types and can explode if mishandled, as can the gems and crystals. Fire Dust can be used as fuel for some engines.
 
