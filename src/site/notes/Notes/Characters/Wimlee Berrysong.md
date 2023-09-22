@@ -8,8 +8,6 @@
 ### Physical
 **Ancestry** Gnome
 
-
-
 ### Demeanour
 
 ### Occupation
@@ -23,5 +21,3 @@ Runs Berrysong Brewery, a small scale brewery on the outskirts of [[Notes/Locati
 ### Allies
 ### Enemies
 ### Factions
-
- 
