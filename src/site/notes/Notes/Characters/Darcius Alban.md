@@ -8,6 +8,7 @@
 ### Physical
 **Ancestry** Human
 
+
 ### Demeanour
 
 
@@ -23,3 +24,9 @@
 ### Allies
 ### Enemies
 ### Factions
+
+:::dm
+# Secrets
+## Motivations
+
+:::
