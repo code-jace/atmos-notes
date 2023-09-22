@@ -8,7 +8,6 @@
 ### Physical
 **Ancestry** Human
 
-
 ### Demeanour
 
 
@@ -24,5 +23,3 @@
 ### Allies
 ### Enemies
 ### Factions
-
- 
