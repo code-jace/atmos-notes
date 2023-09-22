@@ -17,6 +17,7 @@ He makes his own cider in the harvest season, from local apples from nearby farm
 * Stocky, shortish build.
 * Brown Hair. Ginger Beard. 
 * Wears a striped wool hat. 
+
 ### Demeanour
 * Immensely wholesome. 
 * Helpful.
@@ -27,7 +28,7 @@ Small farmer.
 ## Motivations
 Easy going and straightforward, Wendel enjoys the freedom that he has in running the inn and farm with his wife and friend. 
 He takes pride in providing a hearty and tasty meal to anyone who needs it.
-When he can he enjoys cooking gourmet food. While not "rich gourmet" he is the master of the simple omelette.
+When he can he enjoys cooking gormet food. While not "rich gormet" he is the master of the simple omelette.
 He does not put in on anyone, and desires a similar freedom to do what he wants.
 He wants to support Tove.
 
@@ -39,4 +40,3 @@ He wants to support Tove.
 ### Enemies
 ### Factions
 
- 
