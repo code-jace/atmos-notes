@@ -41,7 +41,7 @@ The surrounding farm has the following:
 * Wood shed.
 * Grazing Pasture.
 * Grain Field.
-* [[Notes/Characters/Lorros Bowman\|Lorros Bowman]]'s house.
+* [[Notes/Characters/Lorros Bowman\|Lorros Bowman]]'s house.'
 * Well.
 
 As the goats rest is primarily an Inn, the herds are not large.
@@ -79,8 +79,8 @@ There is no set lunchtime menu but Cheeses and cuts of meats are normally availa
 - Bought spirits of good quality, a bottle of something fancy and expensive stashed away.
 - Local mead made by neighbour [[Notes/Characters/Waldo Bingus\|Waldo Bingus]].
 - Local firewater made by Bingus. It is rough and strong.
-- [[Notes/Items/Royale Ale\|Royale Ale]] from [[Notes/Locations/Kronerfort\|Kronerfort]], a standard drink.
-- [[Notes/Items/Berrysong Brew\|Berrysong Brew]].
+- [[Notes/Royale Ale\|Royale Ale]] from [[Notes/Locations/Kronerfort\|Kronerfort]], a standard drink.
+- [[Notes/Berrysong Brew\|Berrysong Brew]].
 - Local Ale from nearby farms, in rotation (everyone has some on the go).
 
 ## Folk
