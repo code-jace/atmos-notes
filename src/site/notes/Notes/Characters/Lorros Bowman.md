@@ -9,13 +9,13 @@ He works with animals , and has good animal handling.
 
 * Competent hunter (bow, traps)
 * Good animal handling.
-* Drives cartq
+* Drives cart.
 
 ## Description
 ### Physical
 **Ancestry** Half-Elf
 * Tall
-* Short greased black hair, trimmed black beard and mustache.
+* Short greased black hair, trimmed black beard and moustache.
 * High cheekbones
 * Frowns a bit, permanent worry lines on forehead. 
 
@@ -24,15 +24,12 @@ He works with animals , and has good animal handling.
 * Quiet, but warm when befriended.
 * Distrust of authority.
 * Can be serious when following Tove's list while on supply runs (he doesn't want to let her down or get a bad deal).
-
 ### Occupation
 Farm-hand and hunter.
-
 ## Motivations
 Lorros wants to live freely. He has an ideal situation living on the farm at [[Notes/Locations/The Goat's Rest\|The Goat's Rest]]. He loves  taking care of the farm animals.
 He distrusts the anything greater than local authority, who are people he knows and has the measure of. 
 Having caught deer in the past, and the law being that deer belong to the [[Notes/Alban Royal Family\|Alban Royal Family]], and illegal to hunt, he is fearful that he will be unjustly arrested - believing it to be an unjust law. This does not stop him from occasionally hunting deer and providing them for the stew as "beef", especially for special harvest celebration stews.
-
 ## Relations
 ### Family
 Unknown, Bowman is a self-given name from a time when he was a wandering hunter.
@@ -41,3 +38,9 @@ Unknown, Bowman is a self-given name from a time when he was a wandering hunter.
 [[Notes/Characters/Tove Grubb\|Tove Grubb]] - Friend
 ### Enemies
 ### Factions
+
+:::dm
+# Secrets
+## Motivations
+
+:::
