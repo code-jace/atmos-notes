@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/notes/characters/ylena-alban/"}
 ---
 
-#royalty #political
-#npc 
+#npc #royalty #political
+
+The only daughter of Thastus Alban, and the youngest in the family.
 ## Description
 ### Physical
 **Ancestry** Human
-### Demeanour
 
+### Demeanour
 
 ## Motivations
 
-
-## Relations
+# Relations
 ### Family
 [[Notes/Characters/Thastus Alban\|Thastus Alban]] (Father)
 [[Notes/Characters/Elena Alban\|Elena Alban]] (Mother)
@@ -22,3 +22,9 @@
 ### Allies
 ### Enemies
 ### Factions
+
+:::dm
+# Secrets
+## Motivations
+
+:::
