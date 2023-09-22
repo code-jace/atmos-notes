@@ -15,9 +15,14 @@ Runs Berrysong Brewery, a small scale brewery on the outskirts of [[Notes/Locati
 
 ## Motivations
 
-
 ## Relations
 ### Family
 ### Allies
 ### Enemies
 ### Factions
+
+:::dm
+# Secrets
+## Motivations
+
+:::
