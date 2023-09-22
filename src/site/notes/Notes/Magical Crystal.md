@@ -28,10 +28,10 @@ Crystals of various colours which have a slight glow if they contain magical ene
 ### Physical & Chemical Properties
 The properties of a Magical Crystal depends on the type of crystal.  The state of a Magical Crystal affects how it is used.
 
--   Ore is usually a stable occurrence of the crystal that needs to be processed.
--   Crystal and Crystal Outcrops have energy that can be unleashed or channelled directly.
--   A Rough Gem is similar to Crystals, but with more condensed power - they have more power density, but are naturally more unstable. A Rough Gem can be be "Cut" and shaped to increase their stability.
--   Dust is processed from Ore, to increase its purity, and so increase its magical charge. It can be used in measured amounts. It is more volatile.
+-   [Ore] is usually a stable occurrence of the crystal that needs to be processed.
+-   [Crystal] and Crystal Outcrops have energy that can be unleashed or channelled directly.
+-   A Rough [Gem] is similar to Crystals, but with more condensed power - they have more power density, but are naturally more unstable. A Rough Gem can be be "Cut" and shaped to increase their stability.
+-   [Dust] is processed from Ore, to increase its purity, and so increase its magical charge. It can be used in measured amounts. It is more volatile.
 
 ### Origin & Source
 Crystals occur underground and in rocks as Ore. Buried, or in caves as Crystals and Crystal Outcrops. Rarely found as raw gems in rocks like geodes, or buried. Large ore pieces can be processed into gems, while smaller ore pieces are processed into Dust. In terms of natural occurrence, Magical Crystals are most commonly found in Ore form, then Crystal Form, and most rarely in rough Gem Form.
