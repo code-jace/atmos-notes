@@ -8,6 +8,7 @@
 ### Physical
 **Ancestry** Human
 
+
 ### Demeanour
 
 
@@ -24,3 +25,9 @@
 ### Enemies
 ### Factions
 - [[Notes/Alban Royal Family\|Alban Royal Family]] #faction-alban
+
+:::dm
+# Secrets
+## Motivations
+
+:::
