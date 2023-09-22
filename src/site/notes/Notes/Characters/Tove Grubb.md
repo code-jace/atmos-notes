@@ -36,5 +36,3 @@ She wants to support Wendel.
 [[Notes/Characters/Lorros Bowman\|Lorros Bowman]] - Friend and Farmhand
 ### Enemies
 ### Factions
-
- 
