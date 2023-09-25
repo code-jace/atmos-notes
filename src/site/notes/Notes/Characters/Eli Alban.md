@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/characters/eli-alban/"}
 ---
 
-#npc #royalty #political
+#npc #royalty #political #faction-alban 
 ## Description
 ### Physical
 **Ancestry** Human
@@ -23,5 +23,6 @@
 ### Allies
 ### Enemies
 ### Factions
+[[Notes/Alban Royal Family\|Alban Royal Family]] #faction-alban 
 
  
