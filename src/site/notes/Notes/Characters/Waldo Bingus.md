@@ -13,7 +13,7 @@ Waldo keeps his own time. It's "bingus time" -  a nature time of sorts. He hiber
 ### Demeanour
 
 ### Occupation
-Meadmaker
+Meadmaker. Keeps a still near his hut for distilling honey based spirits.
 
 ## Motivations
 
