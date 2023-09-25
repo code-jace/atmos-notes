@@ -23,8 +23,4 @@ The only daughter of Thastus Alban, and the youngest in the family.
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
