@@ -39,8 +39,4 @@ He wants to support Tove.
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
