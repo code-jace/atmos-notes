@@ -23,8 +23,4 @@ Meadmaker
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
