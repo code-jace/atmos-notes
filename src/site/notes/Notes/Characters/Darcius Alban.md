@@ -24,8 +24,4 @@
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
