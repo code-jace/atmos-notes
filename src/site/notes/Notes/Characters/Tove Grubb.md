@@ -36,8 +36,4 @@ She wants to support Wendel.
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
