@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/characters/eli-alban/"}
 ---
 
-#royalty #political
-#npc 
+#npc #royalty #political
 ## Description
 ### Physical
 **Ancestry** Human
