@@ -12,9 +12,9 @@ The rise of these technologies has also changed the way civilisation acts, new p
 
 It is an interesting and eventful time to be alive.
 ## Skyland Nations
-[[Notes/Locations/Brist\|Brist]] 
+[[Notes/Locations/Brist\|Brist]] (Starting Island)
 
-[[A History of the Skies\|A History of the Skies]]
+[[A History of the Skies\|A History of the Skies]] (Timeline WIP)
 ## Game Details (Meta)
 [[Things you should know\|Things you should know]]
 [[House Rules\|House Rules]]
