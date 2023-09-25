@@ -3,7 +3,7 @@
 ---
 
 #skyland #nation #landmass #location
-Brist is a [[Notes/Skyland\|Skyland]] nation.
+Brist is a small [[Notes/Skyland\|Skyland]] nation.
 ![Brist_Map.png](/img/user/Assets/Brist_Map.png)
 
 ### Politics
