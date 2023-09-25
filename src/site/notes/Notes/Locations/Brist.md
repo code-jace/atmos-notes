@@ -7,15 +7,16 @@ Brist is a small [[Notes/Skyland\|Skyland]] nation.
 ![Brist_Map.png](/img/user/Assets/Brist_Map.png)
 
 ### Politics
-Ruled by King [[Notes/Characters/Thastus Alban\|Thastus Alban]], and the [[Notes/Alban Royal Family\|Alban Royal Family]]
+Brist is ruled by a Monarchy, which is advised by a council.
+the de facto ruler is King [[Notes/Characters/Thastus Alban\|Thastus Alban]], and the [[Notes/Alban Royal Family\|Alban Royal Family]].
 ### Settlements
 **Capital** [[Notes/Locations/Kronerfort\|Kronerfort]]
-[[Notes/Locations/Gladeway\|Gladeway]]
-[[Notes/Locations/Mireden\|Mireden]]
-[[Notes/Locations/Hamel\|Hamel]]
-[[Notes/Locations/Mirn\|Mirn]]
-[[Notes/Locations/Hiram's Plot\|Hiram's Plot]]
-[[Notes/Locations/Weast\|Weast]]
+[[Notes/Locations/Gladeway\|Gladeway]] - Village
+[[Notes/Locations/Mireden\|Mireden]] - Settlement
+[[Notes/Locations/Hamel\|Hamel]] - Village
+[[Notes/Locations/Mirn\|Mirn]] - Village
+[[Notes/Locations/Hiram's Plot\|Hiram's Plot]] - Settlement
+[[Notes/Locations/Weast\|Weast]] - Village
 ### Notable Locations
 [[Mountains\|Mountains]]
 [[Mountain Temple\|Mountain Temple]]
