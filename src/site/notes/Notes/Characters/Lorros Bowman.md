@@ -39,8 +39,4 @@ Unknown, Bowman is a self-given name from a time when he was a wandering hunter.
 ### Enemies
 ### Factions
 
-:::dm
-# Secrets
-## Motivations
-
-:::
+ 
