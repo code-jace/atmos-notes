@@ -16,5 +16,5 @@ It is an interesting and eventful time to be alive.
 
 [[A History of the Skies\|A History of the Skies]] (Timeline WIP)
 ## Game Details (Meta)
-[[Things you should know\|Things you should know]]
-[[House Rules\|House Rules]]
+[[Meta/Things you should know\|Things you should know]]
+[[Meta/House Rules\|House Rules]]
