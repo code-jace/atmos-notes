@@ -14,11 +14,11 @@ It is an interesting and eventful time to be alive.
 
 ## Jumping off:
 ### Places
-[[Notes/Locations/Brist\|Brist]] (Starting Island)
+[[_Notes/Locations/Brist\|Brist]] (Starting Island)
 
 ### Things & Concepts
-[[Notes/Magical Crystal\|Magical Crystal]]
-[[Notes/Gods\|Gods]] (WIP)
+[[_Notes/Magical Crystal\|Magical Crystal]]
+[[_Notes/Gods\|Gods]] (WIP)
 
 
 [[A History of the Skies\|A History of the Skies]] (Timeline WIP)
