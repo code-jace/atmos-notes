@@ -14,15 +14,15 @@ It is an interesting and eventful time to be alive.
 
 ## Jumping off:
 ### Places
-[[_Notes/Locations/Brist\|Brist]] (Starting Island)
+[[1.Notes/Locations/Brist\|Brist]] (Starting Island)
 
 ### Things & Concepts
-[[_Notes/Magical Crystal\|Magical Crystal]]
-[[_Notes/Gods\|Gods]] (WIP)
+[[1.Notes/Magical Crystal\|Magical Crystal]]
+[[1.Notes/Gods\|Gods]] (WIP)
 
 
 [[A History of the Skies\|A History of the Skies]] (Timeline WIP)
 ## Game Details (Meta)
-[[Meta/Things you should know\|Things you should know]]
-[[Meta/House Rules\|House Rules]]
-[[Meta/Inspiration & Influences\|Inspiration & Influences]]
+[[2.Meta/Things you should know\|Things you should know]]
+[[2.Meta/House Rules\|House Rules]]
+[[2.Meta/Inspiration & Influences\|Inspiration & Influences]]
