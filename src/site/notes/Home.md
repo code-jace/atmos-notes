@@ -11,8 +11,15 @@ Islands with foundations of Levistone, a mineral with the power to repel gravity
 The rise of these technologies has also changed the way civilisation acts, new political structures rise and fall. In places towns have banded together, forming new republics. In others, great and mighty leaders found empires. 
 
 It is an interesting and eventful time to be alive.
-## Skyland Nations
+
+## Jumping off:
+### Places
 [[Notes/Locations/Brist\|Brist]] (Starting Island)
+
+### Things & Concepts
+[[Notes/Magical Crystal\|Magical Crystal]]
+[[Notes/Gods\|Gods]] (WIP)
+
 
 [[A History of the Skies\|A History of the Skies]] (Timeline WIP)
 ## Game Details (Meta)
