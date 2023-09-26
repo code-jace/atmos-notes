@@ -11,7 +11,7 @@ It serves as a local pub to the surrounding farms and folk, and also caters to p
 The Goat's Rest inn is an old farm that has been added to, to build dedicated hostel-style lodging rooms for travelers, after years of putting folk up in the barn, with a friendly-but-temperamental goat (hence the name). It is still a working farm, although that is now second to operating as an inn.
 It acts as a meeting place for the local farmers and laborers.
 
-Originally just a farmhouse and barn the house was altered to have the downstairs be a pub after years of the front room having been treated as such. A second co-joining building was added alongside with bedrooms after another year of putting pub-goers and travellers up in the barn.. At times of no-vacancy, travellers are still put up in the barn in the empty loft above the animals. They are normally not expected to pay a full nights lodging as there is animal noise and only some straw for comfort.
+Originally just a farmhouse and barn the house was altered to have the downstairs be a pub after years of the front room having been treated as such. A second co-joining building was added alongside with bedrooms after another year of putting pub-goers and travellers up in the barn. At times of no-vacancy, travellers are still put up in the barn in the empty loft above the animals. They are normally not expected to pay a full nights lodging as there is animal noise and only some straw for comfort.
 The barn has space for travellers horses.
 
 ## Layout
@@ -87,3 +87,5 @@ There is no set lunchtime menu but Cheeses and cuts of meats are normally availa
 [[1.Notes/Characters/Lorros Bowman\|Lorros Bowman]]
 
 ### Sythe and Cider Harvest festival
+
+ 
