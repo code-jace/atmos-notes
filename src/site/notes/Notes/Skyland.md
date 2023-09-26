@@ -6,3 +6,7 @@
 // TODO
 [[Notes/Levistone\|Levistone]]
 [[Notes/Liftwood\|Liftwood]] Forests
+
+# List of Skylands
+- [[Notes/Locations/Brist\|Brist]]
+- 
