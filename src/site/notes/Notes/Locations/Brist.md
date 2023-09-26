@@ -4,7 +4,7 @@
 
 #skyland #nation #landmass #location
 Brist is a small [[Notes/Skyland\|Skyland]] nation.
-![Brist_Map.png](/img/user/Assets/Brist_Map.png)
+![Brist_Map.png](/img/user/Notes/Assets/Brist_Map.png)
 
 ### Politics
 Brist is ruled by a Monarchy, which is advised by a council.
