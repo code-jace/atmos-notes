@@ -18,3 +18,4 @@ It is an interesting and eventful time to be alive.
 ## Game Details (Meta)
 [[Meta/Things you should know\|Things you should know]]
 [[Meta/House Rules\|House Rules]]
+[[Meta/Inspiration & Influences\|Inspiration & Influences]]
