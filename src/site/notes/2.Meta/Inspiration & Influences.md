@@ -9,10 +9,11 @@ This is like some sort of mood board/collection of various things and genres tha
 	- [Oops,heres the whole series on youtube](https://www.youtube.com/playlist?list=PLuHw9FX1wllBRmmwENMw316ST2htPTMuo)
 - Fullmetal Alchemist. *Fullmetal Alchemist* - Magic, technology, both of those things at the same time. Strong and developed characters. What it contributes here is probably the concrete nature of the magic system and how grounded everything - while still fantastical was. It also was sort of my first foray into a show that had meaningful politics and touched on international relations. Also how more or less every story thread was tied up in the end.
 - Mortal Engines - the books for the world building and story. Deep and interesting characters that subvert the norm in a way that feels very real. The film for some beautiful visuals.
-- Leviathan - I think this was my first dip into alternate history.  It has airships and some of them are living things. 
+- Leviathan book series - I think this was my first dip into alternate history.  It has airships and some of them are living things. 
 - Star Wars - goes without saying. The ultimate in peasant boy meets a wizard journeys. Also Empires and Rebels. 
 - Dune - Intrigue. Plans within plans. Do I have many? I have a few maybe. 
 - Battlestar Galactica - Space Opera with grit. Great characters and big questions. Very tense. I like the idea of huge spaceship and a crew. Likely translates to Airship or something in the setting.
+- Space Battleship Yamato - a theme emerges... Space Opera with less grit but more wearing hearts on sleeves. Very dramatic, and with very cool technology and morals.
 - Legend of the Galactic Heroes - The opposite extreme of Space Opera, in that its practically an opera in the original sense. So many developed characters. Almost too many. I hope to be as in depth.  Does a similar to Star Wars with an empire and the alliance, but its far more grey. Shows it from both sides which as a sandbox, I hope to be able to do.
 - The Legend of Zelda
 - Nausicaä of the Valley of the Wind/ Laputa Castle in the Sky/ whatever studio Ghibli is doing with their worldbuilding and themes.
