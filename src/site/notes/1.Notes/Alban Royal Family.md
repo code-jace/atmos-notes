@@ -15,7 +15,7 @@ The ruling royal family of [[1.Notes/Locations/Brist\|Brist]]. They are currentl
 While the Royal Family is the name of the faction overall, it encompasses their advisors and minions.
 - Commander of Brist Watch: [[1.Notes/Characters/Geth Astorio\|Geth Astorio]].
 - Commander of the Brist Military: General [[1.Notes/Characters/Ferlik Varnest\|Ferlik Varnest]].
-- [[1.Notes/Locations/Spymaster\|Spymaster]]
+- [[1.Notes/Characters/Spymaster\|Spymaster]]
 - King's Magos: [[1.Notes/Characters/Moriti Darotis\|Moriti Darotis]]
 - King's Mageguard: [[Mageguard 1\|Mageguard 1]] and [[Mageguard 2\|Mageguard 2]].
 
