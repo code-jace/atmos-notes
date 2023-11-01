@@ -13,6 +13,10 @@ The rise of these technologies has also changed the way civilisation acts, new p
 It is an interesting and eventful time to be alive.
 
 ## Jumping off:
+### Parties
+If you are playing a game in the world, here is the best way to find yourself and any notes/reports etc.
+[[3.Campaigns/Party 1\|Party 1]]
+
 ### Places
 [[1.Notes/Locations/Brist\|Brist]] (Starting Island)
 
