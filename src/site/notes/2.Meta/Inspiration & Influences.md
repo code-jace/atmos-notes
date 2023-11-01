@@ -15,3 +15,4 @@ This is like some sort of mood board/collection of various things and genres tha
 - Battlestar Galactica - Space Opera with grit. Great characters and big questions. Very tense. I like the idea of huge spaceship and a crew. Likely translates to Airship or something in the setting.
 - Legend of the Galactic Heroes - The opposite extreme of Space Opera, in that its practically an opera in the original sense. So many developed characters. Almost too many. I hope to be as in depth.  Does a similar to Star Wars with an empire and the alliance, but its far more grey. Shows it from both sides which as a sandbox, I hope to be able to do.
 - The Legend of Zelda
+- Nausicaä of the Valley of the Wind/ Laputa Castle in the Sky/ whatever studio Ghibli is doing with their worldbuilding and themes.
