@@ -26,7 +26,8 @@ If you are playing a game in the world, here is the best way to find yourself an
 
 
 [[A History of the Skies\|A History of the Skies]] (Timeline WIP)
-## Game Details (Meta)
+## Game Details/Tools (Meta)
 [[2.Meta/Things you should know\|Things you should know]]
 [[2.Meta/House Rules\|House Rules]]
 [[2.Meta/Inspiration & Influences\|Inspiration & Influences]]
+[[4.Tools/Character Generation\|Character Generation]]
