@@ -18,7 +18,7 @@ the de facto ruler is King [[1.Notes/Characters/Thastus Alban\|Thastus Alban]], 
 [[1.Notes/Locations/Hiram's Plot\|Hiram's Plot]] - Settlement
 [[1.Notes/Locations/Weast\|Weast]] - Village
 ### Notable Locations
-[[Mountains\|Mountains]]
+[[1.Notes/Locations/Brynmir Mountain Range\|Brynmir Mountain Range]]
 [[Mountain Temple\|Mountain Temple]]
 [[Flats\|Flats]]
 [[Ancient Battle site\|Ancient Battle site]]
