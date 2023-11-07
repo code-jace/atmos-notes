@@ -25,6 +25,8 @@ the de facto ruler is King [[1.Notes/Characters/Thastus Alban\|Thastus Alban]], 
 [[Ruined Castle\|Ruined Castle]]
 [[Marshland\|Marshland]]
 
+[[Thing\|Thing]]
+
 
 
 
