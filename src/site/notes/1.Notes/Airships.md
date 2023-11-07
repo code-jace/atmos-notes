@@ -80,7 +80,7 @@ Following a set of general agreements between nations and sky-going communities,
 - Rudders to steer.
 
 # Types of Common Airships
-- [[Draking\|Draking]] Ship
+- [[1.Notes/Draking\|Draking]] Ship
 	- Fast enough to run down [[Dragon\|Dragon]]s similar to whaling. 
 	- Strong enough grapple and tow/carry its prey.
 	- Armed with harpoon/ballista sometimes
