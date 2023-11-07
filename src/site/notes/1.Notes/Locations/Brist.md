@@ -4,7 +4,7 @@
 
 #skyland #nation #landmass #location
 Brist is a small [[1.Notes/Skyland\|Skyland]] nation.
-![Brist_Marked_01.png](/img/user/1.Notes/Assets/Maps/Brist_Marked_01.png) 
+![Brist_Marked_01.png](/img/user/1.Notes/Assets/Brist_Marked_01.png) 
 [[Brist_Marked_01.png|Map]]
 
 
