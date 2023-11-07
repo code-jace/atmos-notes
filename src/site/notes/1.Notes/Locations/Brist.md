@@ -4,7 +4,8 @@
 
 #skyland #nation #landmass #location
 Brist is a small [[1.Notes/Skyland\|Skyland]] nation.
-![Brist_Marked_01.png](/img/user/1.Notes/Assets/Brist_Marked_01.png)
+ ![Brist_Marked_01.png](/img/user/1.Notes/Assets/Maps/Brist_Marked_01.png)
+
 
 ### Politics
 Brist is ruled by a Monarchy, which is advised by a council.
@@ -25,7 +26,6 @@ the de facto ruler is King [[1.Notes/Characters/Thastus Alban\|Thastus Alban]], 
 [[Ruined Castle\|Ruined Castle]]
 [[Marshland\|Marshland]]
 
-[[Thing\|Thing]]
 
 
 
