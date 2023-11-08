@@ -5,7 +5,7 @@
 #event #magic 
 Magic as it once was, the Arcane arts and it's schools of training are no more. In the [[1.Notes/Cataclysm\|Cataclysm]], the [[1.Notes/Magisphere\|Magisphere]] became so turbulent that the equations and techniques required to conjure and control magical spells became so complex and physically taxing that wizardry was made incredibly difficult. 
 
-That is to say, magic has become a gift. It is more regularly seen as performed by sorcerers -  those possessing the "spark", the natural connection  to the [[1.Notes/Magisphere\|Magisphere]] and aptitude required to manipulate it.
+That is to say, magic has become a gift. It is more regularly seen as performed by sorcerers - those possessing the "spark", the natural connection  to the [[1.Notes/Magisphere\|Magisphere]] and aptitude required to manipulate it.
 
 Traditional wizardry does exist, although only rarely performed due to its complexity - it takes not only a brilliant mind constant study to decipher old magical texts and convert spells to the new constantly warping [[1.Notes/Magisphere\|Magisphere]], but rare and powerful magical focuses.
 
