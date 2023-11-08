@@ -87,4 +87,5 @@ Following a set of general agreements between nations and sky-going communities,
 - Transport Ship
 	- Enough lift and room to carry cargo.
 	- Fast enough to make for efficient trade routes.
+// TODO
 
