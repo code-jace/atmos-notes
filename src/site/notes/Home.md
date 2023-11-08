@@ -22,6 +22,7 @@ If you are playing a game in the world, here is the best way to find yourself an
 
 ### Things & Concepts
 [[1.Notes/Magical Crystal\|Magical Crystal]]
+[[1.Notes/Airships\|Airships]]
 [[1.Notes/Gods\|Gods]] (WIP)
 
 
