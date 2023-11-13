@@ -16,5 +16,12 @@ The [[1.Notes/Locations/River Vaan\|River Vaan]] runs by Mirn, with its source i
 //TODO why mine in mirn
 
 ### Notable Locations
+[[Main Mine Mirn\|Main Mine Mirn]]
+[[Mollow Company Store\|Mollow Company Store]]
+[[Sooty Pete's\|Sooty Pete's]] - Tavern
+[[Ore Processing\|Ore Processing]]
+[[Canteen\|Canteen]]
 
 ### Governance
+
+ 
