@@ -10,5 +10,5 @@ He is 6'2" and always seems to be grinning.
 # Playlist
 [https://open.spotify.com/playlist/4hccmoWCv9dS29DIcoOEtQ?si=TrQ8DgCCSmmROZgwYCUHzg&pi=e-tFztm9W1Q1Wu](https://open.spotify.com/playlist/4hccmoWCv9dS29DIcoOEtQ?si=TrQ8DgCCSmmROZgwYCUHzg&pi=e-tFztm9W1Q1Wu "https://open.spotify.com/playlist/4hccmoWCv9dS29DIcoOEtQ?si=TrQ8DgCCSmmROZgwYCUHzg&pi=e-tFztm9W1Q1Wu")
 
-[[Artemis\|Artemis]] is a auntie figure.p
+[[Artemis\|Artemis]] is an auntie figure.
  
