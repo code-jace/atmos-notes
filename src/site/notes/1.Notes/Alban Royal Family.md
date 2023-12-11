@@ -17,6 +17,6 @@ While the Royal Family is the name of the faction overall, it encompasses their 
 - Commander of the Brist Military: General [[1.Notes/Characters/Ferlik Varnest\|Ferlik Varnest]].
 - [[1.Notes/Characters/Spymaster\|Spymaster]]
 - King's Magos: [[1.Notes/Characters/Moriti Darotis\|Moriti Darotis]]
-- King's Mageguard: [[Mageguard 1\|Mageguard 1]] and [[Mageguard 2\|Mageguard 2]].
+- King's Mageguard: [[1.Notes/Characters/Lucian Telro\|Lucian Telro]] and [[1.Notes/Characters/Lyra Telro\|Lyra Telro]].
 
 
