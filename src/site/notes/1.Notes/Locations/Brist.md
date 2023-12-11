@@ -16,7 +16,7 @@ the de facto ruler is King [[1.Notes/Characters/Thastus Alban\|Thastus Alban]], 
 [[1.Notes/Locations/Gladeway\|Gladeway]] - Village
 [[1.Notes/Locations/Mireden\|Mireden]] - Settlement
 [[1.Notes/Locations/Felmark\|Felmark]] - Village
-[[1.Notes/Locations/Hamel\|Hamel]] - Village
+[[1.Notes/Locations/Homel\|Homel]] - Village
 [[1.Notes/Locations/Mirn\|Mirn]] - Village
 [[1.Notes/Locations/Hiram's Plot\|Hiram's Plot]] - Settlement
 [[1.Notes/Locations/Weast\|Weast]] - Village
