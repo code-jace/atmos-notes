@@ -6,10 +6,10 @@
 # Players & Characters
 | Player | Character Name       | Race         | Class     |
 | ------ | -------------------- | ------------ | --------- |
-| Paddy  | [[Echo\|Echo]]             | Echo (Fairy) | Warlock   |
-| Stella | [[Artemis\|Artemis]]          | Wood Elf     | Artificer |
+| Paddy  | [[1.Notes/Characters/Player Characters/Echo\|Echo]]             | Echo (Fairy) | Warlock   |
+| Stella | [[1.Notes/Characters/Player Characters/Artemis\|Artemis]]          | Wood Elf     | Artificer |
 | Rubin  | [[1.Notes/Characters/Player Characters/Atticus Wrookery\|Atticus Wrookery]] | Human        | Fighter   |
-| Doire  | [[Dar-el\|Dar-el]]           | Half-Orc     | Druid     |
+| Doire  | [[1.Notes/Characters/Player Characters/Dar-el\|Dar-el]]           | Half-Orc     | Druid     |
 | Iarla  | [[Onyx Terra\|Onyx Terra]]       | Halfling     | Paladin   |
 | Danny  | [[Gimli\|Gimli]]            | Dragonborn   | Sorceror  | 
 
