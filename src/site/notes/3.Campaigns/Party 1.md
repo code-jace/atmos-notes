@@ -10,8 +10,8 @@
 | Stella | [[1.Notes/Characters/Player Characters/Artemis\|Artemis]]          | Wood Elf     | Artificer |
 | Rubin  | [[1.Notes/Characters/Player Characters/Atticus Wrookery\|Atticus Wrookery]] | Human        | Fighter   |
 | Doire  | [[1.Notes/Characters/Player Characters/Dar-el\|Dar-el]]           | Half-Orc     | Druid     |
-| Iarla  | [[Onyx Terra\|Onyx Terra]]       | Halfling     | Paladin   |
-| Danny  | [[Gimli\|Gimli]]            | Dragonborn   | Sorceror  | 
+| Iarla  | [[1.Notes/Characters/Player Characters/Onyx Terra\|Onyx Terra]]       | Halfling     | Paladin   |
+| Danny  | [[1.Notes/Characters/Player Characters/Gimli\|Gimli]]            | Dragonborn   | Sorceror  | 
 
 # Availabilty
 https://www.when2meet.com/?22164112-zylxO
