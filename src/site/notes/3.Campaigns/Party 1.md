@@ -19,9 +19,10 @@ https://www.when2meet.com/?22164112-zylxO
 # Session planning and notes
 | Session | Notes         | Play Date  | Game Date (Equivelent) |
 | ------- | ------------- | ---------- | ---------------------- |
-| 0       | [[3.Campaigns/Session 0\|Session 0]] | 21/11/2023 |N/A|   |
-| 1       | [[3.Campaigns/Session 1\|Session 1]] | 28/11/2023 | 02/10/xx23             |
-| 2       | [[3.Campaigns/Session 2\|Session 2]] | 05/12/2023 | 03/10/xx23             |   |
-|   3      |[[3.Campaigns/Session 3\|Session 3]]| 12/12/2023           |04/10/xx23                        |
+| 0       | [[3.Campaigns/Session 0\|Session 0]] | 21/11/2023 | N/A                    |
+| 1       | [[3.Campaigns/Session 1\|Session 1]] | 28/11/2023 | 02/10/1023             |
+| 2       | [[3.Campaigns/Session 2\|Session 2]] | 05/12/2023 | 03/10/1023             |
+| 3       | [[3.Campaigns/Session 3\|Session 3]] | 12/12/2023 | 04/10/1023             |
+|         |               |            |                        |
 
 
