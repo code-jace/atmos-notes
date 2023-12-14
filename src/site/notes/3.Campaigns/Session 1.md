@@ -31,9 +31,9 @@ Paddy, Stella, Rubin, Doire, Iarla, Danny
 - The two wolves that were attacking the sheep are picked off. 
 - One of the flanking wolves is killed by [[1.Notes/Characters/Player Characters/Onyx Terra\|Onyx Terra]], the last wolf, after being injured, escapes to lick its wounds.
 - The party go back to the inn. Drinks are on [[Sheep Farmer\|Sheep Farmer]]. 
-- [[1.Notes/Characters/Stunner\|Stunner]] is at the bar.?
+- [[1.Notes/Characters/Non Player Characters/Stunner\|Stunner]] is at the bar.?
 - The party sleep for the night. 
-- At breakfast, the next morning, [[1.Notes/Characters/Tove Grubb\|Tove Grubb]] asks if they saw the blacksmith's daughter last night. She was supposed to make it home from [[1.Notes/Locations/Homel\|Homel]]. [[1.Notes/Characters/Jerd Halstor\|Jerd Halstor]] is worried about his daughter....
+- At breakfast, the next morning, [[1.Notes/Characters/Non Player Characters/Tove Grubb\|Tove Grubb]] asks if they saw the blacksmith's daughter last night. She was supposed to make it home from [[1.Notes/Locations/Homel\|Homel]]. [[1.Notes/Characters/Non Player Characters/Jerd Halstor\|Jerd Halstor]] is worried about his daughter....
 
 
 
