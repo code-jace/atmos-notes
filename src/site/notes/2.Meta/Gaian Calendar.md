@@ -12,7 +12,7 @@ There is 365 days to a year, 366 every 4 years.
 # Months
 (WIP)
 
-| Number | Month   | Days                 |
+| Number | Month   | Number of Days       | 
 | ------ | ------- | -------------------- |
 | 1      | Murk    | 31                   |
 | 2      | Laygla  | 28 (29 on leap year) |
