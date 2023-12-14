@@ -3,7 +3,7 @@
 ---
 
 #npc #royalty #political
-Heir to the throne the [[1.Notes/Alban Royal Family\|Alban Royal Family]].
+Heir to the throne the [[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]].
 ## Description
 ### Physical
 **Ancestry** Human
@@ -24,6 +24,6 @@ Heir to the throne the [[1.Notes/Alban Royal Family\|Alban Royal Family]].
 ### Allies
 ### Enemies
 ### Factions
-[[1.Notes/Alban Royal Family\|Alban Royal Family]] (Heir) #faction-alban 
+[[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]] (Heir) #faction-alban 
 
  
