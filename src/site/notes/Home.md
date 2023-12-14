@@ -24,7 +24,7 @@ If you are playing a game in the world, here is the best way to find yourself an
 [[1.Notes/Magical Crystal\|Magical Crystal]]
 [[1.Notes/Airships\|Airships]]
 [[1.Notes/Gods\|Gods]] (WIP)
-[[1.Notes/Gaian Calendar\|Gaian Calendar]]
+[[2.Meta/Gaian Calendar\|Gaian Calendar]]
 
 
 [[2.Meta/Timelines/Grand Timeline\|Grand Timeline]] (Timeline WIP)
