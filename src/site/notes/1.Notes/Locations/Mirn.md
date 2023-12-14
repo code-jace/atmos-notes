@@ -7,7 +7,7 @@ Mirn is a mining town in [[1.Notes/Locations/Brist\|Brist]], situated at the foo
 It is connected by road to [[1.Notes/Locations/Homel\|Homel]] to the east.
 
 Mirn is known for it's mining operation and export of metal ore.
-The town started as a settlement to support the mining venture of the [[1.Notes/Mollow Extractions Company\|Mollow Extractions Company]], in most aspects it is a company town.
+The town started as a settlement to support the mining venture of the [[1.Notes/Organisations/Mollow Extractions Company\|Mollow Extractions Company]], in most aspects it is a company town.
 
 Food is imported into the town from [[1.Notes/Locations/Felmark\|Felmark]] and [[1.Notes/Locations/Homel\|Homel]] along the road, bought in by the company.
 
