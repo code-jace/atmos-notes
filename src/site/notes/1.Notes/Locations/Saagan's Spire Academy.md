@@ -6,7 +6,7 @@
 
 Headquarters and campus of the [[1.Notes/Brist Mage's College\|Brist Mage's College]].
 **Location**: Northeastern [[1.Notes/Locations/Brist\|Brist]].
-Named for [[1.Notes/Characters/Kiirt Saagan\|Kiirt Saagan]], one of the first mages on the skyland of brist, who set up the Mages College.
+Named for [[1.Notes/Characters/Non Player Characters/Kiirt Saagan\|Kiirt Saagan]], one of the first mages on the skyland of brist, who set up the Mages College.
 
 - has a nearby town which has to sometimes deal with it's weirdness
 - town trades supplies withe the school
