@@ -5,4 +5,4 @@
 #organisation 
 [[1.Notes/Locations/Brist\|Brist]]
 
-**Leader** [[1.Notes/Characters/Geth Astorio\|Geth Astorio]] - the Watch Commander
+**Leader** [[1.Notes/Characters/Non Player Characters/Geth Astorio\|Geth Astorio]] - the Watch Commander
