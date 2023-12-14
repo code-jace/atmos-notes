@@ -3,14 +3,14 @@
 ---
 
 #skyland #nation #landmass #location
-Brist is a small [[1.Notes/Skyland\|Skyland]] nation.
+Brist is a small [[1.Notes/Concepts/Skyland\|Skyland]] nation.
 ![Brist_02_Marked.png](/img/user/1.Notes/Assets/Brist_02_Marked.png) 
 [[Brist_02_Marked.png]]
 
 
 ### Politics
 Brist is ruled by a Monarchy, which is advised by a council.
-the de facto ruler is King [[1.Notes/Characters/Non Player Characters/Thastus Alban\|Thastus Alban]], and the [[1.Notes/Alban Royal Family\|Alban Royal Family]].
+the de facto ruler is King [[1.Notes/Characters/Non Player Characters/Thastus Alban\|Thastus Alban]], and the [[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]].
 ### Settlements
 **Capital** [[1.Notes/Locations/Kronerfort\|Kronerfort]]
 [[1.Notes/Locations/Gladeway\|Gladeway]] - Village
