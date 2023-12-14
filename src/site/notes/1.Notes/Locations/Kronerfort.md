@@ -19,5 +19,5 @@ The capital city of [[1.Notes/Locations/Brist\|Brist]].
 
 
 ### Other things
-[[1.Notes/Kronerfort Illustrated\|Kronerfort Illustrated]] Newspaper published from office and printworks in the city.
+[[1.Notes/Objects/Kronerfort Illustrated\|Kronerfort Illustrated]] Newspaper published from office and printworks in the city.
 Local food is chimney cakes.
