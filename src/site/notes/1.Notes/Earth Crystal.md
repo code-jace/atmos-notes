@@ -7,7 +7,7 @@
 **Color** Green
 **Common State** Ore, Crystal, Gem
 
-A type of [[1.Notes/Magical Crystal\|Magical Crystal]]. Connected with nature. The Crystal and gem form can influence and increase plant growth. Soil made with the rock from around ore deposits is naturally magically fertile. The processed dust can be activated to magically fuse stone materials. It is valuable for construction and agriculture - especially on smaller skylands.
+A type of [[1.Notes/Magical Crystal\|Magical Crystal]]. Connected with nature. The Crystal and gem form can influence and increase plant growth. Soil made with the rock from around ore deposits is naturally magically fertile. The processed dust can be activated to magically fuse stone materials using a [[1.Notes/Items/Fusing Hammer\|Fusing Hammer]]. It is valuable for construction and agriculture - especially on smaller skylands.
 
 ## Properties
 
