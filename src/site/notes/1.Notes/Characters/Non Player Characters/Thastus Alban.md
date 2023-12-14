@@ -4,7 +4,7 @@
 
 #npc #royalty #political
 Known as *King Thastus*.
-King of [[1.Notes/Locations/Brist\|Brist]]. Head of the [[1.Notes/Alban Royal Family\|Alban Royal Family]]
+King of [[1.Notes/Locations/Brist\|Brist]]. Head of the [[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]]
 
 ## Description
 ### Physical
@@ -23,7 +23,7 @@ King of [[1.Notes/Locations/Brist\|Brist]]. Head of the [[1.Notes/Alban Royal Fa
 ### Allies
 ### Enemies
 ### Factions
-- [[1.Notes/Alban Royal Family\|Alban Royal Family]] (Head) #faction-alban
+- [[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]] (Head) #faction-alban
 
 
  
