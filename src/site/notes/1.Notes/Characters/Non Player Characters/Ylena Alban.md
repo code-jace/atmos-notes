@@ -22,5 +22,5 @@ The only daughter of Thastus Alban, and the youngest in the family.
 ### Allies
 ### Enemies
 ### Factions
-[[1.Notes/Alban Royal Family\|Alban Royal Family]] #faction-alban 
+[[1.Notes/Organisations/Alban Royal Family\|Alban Royal Family]] #faction-alban 
  
