@@ -38,5 +38,6 @@ Paddy, Stella, Rubin, Doire, Iarla
 - The party remain at the camp, and over time [[1.Notes/Characters/Player Characters/Atticus Wrookery\|Atticus Wrookery]], [[1.Notes/Characters/Player Characters/Artemis\|Artemis]], [[1.Notes/Characters/Player Characters/Echo\|Echo]], and [[1.Notes/Characters/Player Characters/Dar-el\|Dar-el]] are sounded out for the heist. They are seen to be bringing experience of one or another type.
 - Onyx relays the information to Jerd, saying that Alica is staying with Esra for a few days and it is for something special. While Jerd doenst have much by way of a blacksmithing shop (its mostly for farm repairs), he purchases some javelins.
 - [[1.Notes/Characters/Player Characters/Atticus Wrookery\|Atticus Wrookery]] attempts to swindle some of the miners at cards.
-- The party are given spaces to rest and go to sleep, there is a guard watch, and they are observed.
+- The party trust the miners and surrender their weapons for the night.
+- The party are given spaces to rest and go to sleep, there is a guard watch, and they are observed. 
 - [[1.Notes/Characters/Player Characters/Artemis\|Artemis]] hears a noise from the forest a couple of hours into the rest through her trance. When she looks outside of her tent she notices the reflection of the moonlight in a group of 8 eyes looking back at her... 
