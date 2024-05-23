@@ -3,6 +3,7 @@
 ---
 
 A small mountain range in [[1.Notes/Locations/Brist\|Brist]].
-//TODO [[Mountain Temple\|Mountain Temple]]
-// TODO [[1.Notes/Locations/Mirn\|Mirn]]
-Source of [[1.Notes/Locations/River Vaan\|River Vaan]]
+[[1.Notes/Locations/Mirn\|Mirn]]
+[[Mountain Temple\|Mountain Temple]]
+
+Source of [[1.Notes/Locations/River Vaan\|River Vaan]], which flows through [[1.Notes/Locations/Mirn\|Mirn]], a small mining town on the southern side of the mountain range.
