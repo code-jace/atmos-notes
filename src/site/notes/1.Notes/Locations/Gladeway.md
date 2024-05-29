@@ -4,8 +4,7 @@
 
 #location #settlement #town 
 
-Gladeway is a town in the forest located in the North of [[1.Notes/Locations/Brist\|Brist]].
-The forest is dense and mostly wilderness. The trees and plants here are numerous and often giant, as a result of the very rich [[1.Notes/Objects/Earth Crystal\|Earth Crystal]] ore content in the soil. 
+Gladeway is a town in the [[1.Notes/Locations/Tapio Forest\|Tapio Forest]] located in the North of [[1.Notes/Locations/Brist\|Brist]].
 
 ### Notable Locations 
 *Nearby*
