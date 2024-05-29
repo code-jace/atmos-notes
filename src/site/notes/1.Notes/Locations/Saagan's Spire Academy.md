@@ -8,6 +8,12 @@ Headquarters and campus of the [[1.Notes/Organisations/Brist Mage's College\|Bri
 **Location**: Northeastern [[1.Notes/Locations/Brist\|Brist]].
 Named for [[1.Notes/Characters/Non Player Characters/Kiirt Saagan\|Kiirt Saagan]], one of the first mages on the skyland of brist, who set up the Mages College.
 
+### Notable Locations 
+
+### Plot Hooks
+
+
+### Other things
 - has a nearby town which has to sometimes deal with it's weirdness
 - town trades supplies withe the school
 - Built around a font of magical energy?
