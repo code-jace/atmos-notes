@@ -66,8 +66,8 @@ Following a set of general agreements between nations and sky-going communities,
 
 #### Other methods
 - Levitation spell/caster.
-- Friendly [[Sky Whale\|Sky Whale]]. 
-- Coating of [[Sky Whale\|Sky Whale]] blubber. (acts similar to but more potently than [[Luftpitch\|Luftpitch]])
+- Friendly [[1.Notes/Concepts/Sky Whale\|Sky Whale]]. 
+- Coating of [[1.Notes/Concepts/Sky Whale\|Sky Whale]] blubber. (acts similar to but more potently than [[Luftpitch\|Luftpitch]])
 
 
 # Manoeuvring  and Propulsion
