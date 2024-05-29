@@ -11,6 +11,7 @@ The capital city of [[1.Notes/Locations/Brist\|Brist]].
 
 *Nearby*
 [[1.Notes/Locations/Mireden\|Mireden]]
+[[1.Notes/Locations/Tapio Forest\|Tapio Forest]]
 [[1.Notes/Locations/Gladeway\|Gladeway]]
 
 
