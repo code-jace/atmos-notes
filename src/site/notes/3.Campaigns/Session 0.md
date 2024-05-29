@@ -23,6 +23,6 @@ PowerPoint: https://docs.google.com/presentation/d/1J9G8eADbJyJXfJIOAGDsIOuz7agn
 | Rubin  | [[1.Notes/Characters/Player Characters/Atticus Wrookery\|Atticus Wrookery]] | Human        | Fighter   |
 | Doire  | [[1.Notes/Characters/Player Characters/Dar-el\|Dar-el]]           | Half-Orc     | Druid     |
 | Iarla  | [[1.Notes/Characters/Player Characters/Onyx Terra\|Onyx Terra]]       | Halfling     | Paladin   |
-| Danny  | [[1.Notes/Characters/Player Characters/Gimli\|Gimli]]            | Dragonborn   | Sorceror  | 
+| Danny  | [[1.Notes/Characters/Player Characters/Gimgim\|Gimgim]]            | Dragonborn   | Sorceror  | 
 
 # Player Decisions
