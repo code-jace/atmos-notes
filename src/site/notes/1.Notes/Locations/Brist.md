@@ -22,7 +22,7 @@ the de facto ruler is King [[1.Notes/Characters/Non Player Characters/Thastus Al
 [[1.Notes/Locations/Weast\|Weast]] - Village
 ### Notable Locations
 [[1.Notes/Locations/Brynmir Mountains\|Brynmir Mountains]]
-[[Mountain Temple\|Mountain Temple]]
+[[1.Notes/Locations/Mountain Temple\|Mountain Temple]]
 [[Flats\|Flats]]
 [[Ancient Battle site\|Ancient Battle site]]
 [[Ruined Castle\|Ruined Castle]]
