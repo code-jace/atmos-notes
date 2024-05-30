@@ -13,7 +13,7 @@ The land is very rich naturally, and the use of [[1.Notes/Objects/Earth Crystal\
 ### Notable Locations
 Silos and Stores.
 Cattle Mart.
-[[Harvest Temple\|Harvest Temple]]
+[[1.Notes/Locations/Harvest Temple\|Harvest Temple]]
 
 ### Persons of Note
 
