@@ -12,20 +12,20 @@ There is 365 days to a year, 366 every 4 years.
 # Months
 (WIP)
 
-| Number | Month   | Number of Days       | Equivelent |
-| ------ | ------- | -------------------- | ---------- |
-| 1      | Murk    | 31                   | Jan        |
-| 2      | Laygla  | 28 (29 on leap year) | Feb        |
-| 3      | Pesa    | 31                   | Mar        |
-| 4      | Truui   | 30                   | Apr        |
-| 5      | Lasair  | 31                   | May        |
-| 6      |         | 30                   | Jun        |
-| 7      |         | 31                   | Jul        |
-| 8      |         | 30                   | Aug        |
-| 9      | Innhust | 31                   | Sept       |
-| 10     | Skuveil | 31                   | Oct        |
-| 11     |         | 30                   | Nov        |
-| 12     |         | 31                   | Dec        | 
+| Number | Month   | Number of Days       | Equivelent |     |
+| ------ | ------- | -------------------- | ---------- | --- |
+| 1      | Murk    | 31                   | Jan        |     |
+| 2      | Laygla  | 28 (29 on leap year) | Feb        |     |
+| 3      | Pesa    | 31                   | Mar        |     |
+| 4      | Truui   | 30                   | Apr        |     |
+| 5      | Lasair  | 31                   | May        |     |
+| 6      | Tilkesa | 30                   | Jun        |     |
+| 7      | Sotdaer | 31                   | Jul        |     |
+| 8      |         | 30                   | Aug        |     |
+| 9      | Innhust | 31                   | Sept       |     |
+| 10     | Skuveil | 31                   | Oct        |     |
+| 11     |         | 30                   | Nov        |     |
+| 12     |         | 31                   | Dec        |     |
 
 # Weekdays
 (WIP)
@@ -39,4 +39,5 @@ There is 365 days to a year, 366 every 4 years.
 | 5      |        |
 | 6      | Fulkdi |
 | 7      |        |
-
+## Holidays
+(WIP) Solstice
