@@ -10,7 +10,6 @@
 ### Demeanour
 
 ### Occupation
-Researcher
 
 ## Relations
 ### Family
