@@ -5,11 +5,12 @@
 #npc 
 ## Description
 ### Physical
-**Ancestry** 
+**Ancestry** Human
 
 ### Demeanour
 
 ### Occupation
+Researcher
 
 ## Relations
 ### Family
