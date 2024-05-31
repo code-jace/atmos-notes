@@ -9,7 +9,7 @@ Small agricultural town that acts as a trading hub for farmers in the area.
 
 The land is very rich naturally, and the use of [[1.Notes/Objects/Earth Crystal\|Earth Crystal]] ore to improve the soil is permitted and practiced. The grain and produce from this area is used across Brist. Namely in Kronerfort and [[1.Notes/Locations/Mirn\|Mirn]].
 
-[[Lake Fal\|Lake Fal]] is a nearby lake, Felmark is built on its banks. It is a major source of water for crop irrigation.
+[[1.Notes/Locations/Lake Fal\|Lake Fal]] is a nearby lake, Felmark is built on its banks. It is a major source of water for crop irrigation.
 ### Notable Locations
 Silos and Stores.
 Cattle Mart.
