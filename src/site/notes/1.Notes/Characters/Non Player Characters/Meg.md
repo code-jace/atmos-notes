@@ -10,6 +10,7 @@
 ### Demeanour
 
 ### Occupation
+Farmer
 
 ## Relations
 ### Family
