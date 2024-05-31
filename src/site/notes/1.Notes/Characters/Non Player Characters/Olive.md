@@ -10,6 +10,7 @@
 ### Demeanour
 
 ### Occupation
+Small Farmer
 
 ## Relations
 ### Family
