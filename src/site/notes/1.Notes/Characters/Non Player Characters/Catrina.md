@@ -14,7 +14,7 @@ Researcher
 
 ## Relations
 ### Family
-[[1.Notes/Characters/Non Player Characters/Meg\|Meg]] (Wife)
+[[1.Notes/Characters/Non Player Characters/Meg\|Meg]] (Daughter)
 ### Allies
 ### Enemies
 ### Factions
