@@ -14,7 +14,7 @@ Farmer
 
 ## Relations
 ### Family
-[[1.Notes/Characters/Non Player Characters/Catrina\|Catrina]] (Wife)
+[[1.Notes/Characters/Non Player Characters/Catrina\|Catrina]] (Mother)
 ### Allies
 ### Enemies
 ### Factions
