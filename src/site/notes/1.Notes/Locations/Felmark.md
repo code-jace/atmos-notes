@@ -20,5 +20,5 @@ Cattle Mart.
 ### Governance
 
 ### Local Farm(er)s
-- [[1.Notes/Characters/Non Player Characters/Reef\|Reef]] and [[1.Notes/Characters/Non Player Characters/Olive\|Olive]] (small farm mostly self sufficient)
+- [[1.Notes/Characters/Non Player Characters/Reef Moss\|Reef Moss]] and [[1.Notes/Characters/Non Player Characters/Olive Moss\|Olive Moss]] (small farm mostly self sufficient)
 - [[1.Notes/Characters/Non Player Characters/Meg\|Meg]] (Large crop farm)
