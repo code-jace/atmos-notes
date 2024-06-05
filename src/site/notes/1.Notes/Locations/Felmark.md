@@ -3,7 +3,7 @@
 ---
 
 #location #settlement #town #agriculture 
-Small agricultural town that acts as a trading hub for farmers in the area. 
+Felmark is a small agricultural town that acts as a trading hub for farmers in the area, in the West of Brist. 
 [[1.Notes/Locations/Kronerfort\|Kronerfort]] is half a days travel by road to the North East.
 [[1.Notes/Locations/Homel\|Homel]] is 2 days travel to the South.
 
