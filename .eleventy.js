@@ -453,8 +453,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
-  eleventyConfig.addPlugin(tocPlugin, {
+  const resolvePlugin = (p) => (p && p.default ? p.default : p);
+
+  eleventyConfig.addPlugin(resolvePlugin(faviconsPlugin), { outputDir: "dist" });
+  eleventyConfig.addPlugin(resolvePlugin(tocPlugin), {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
@@ -477,7 +479,7 @@ module.exports = function (eleventyConfig) {
     return variable;
   });
 
- eleventyConfig.addPlugin(pluginRss, {
+ eleventyConfig.addPlugin(resolvePlugin(pluginRss), {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
       singleTags: ["link"],
